@@ -8,3 +8,4 @@ To properly set up the sensors, you must include a 4.7kOhm resistor between the 
 For the waterproof DS18B20, the red wire is for voltage, white is data, and black is ground. On a regular DS18B20, the pins are in the same order from left to right when looking at it from the front (rounded side). 
 
 Please see the video or powerpoint for a visual representation of the circuit and sensor pins.
+https://www.youtube.com/watch?v=9Xt8oru2i84
